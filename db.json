@@ -1,0 +1,74 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "text": "todo 1",
+      "iscompleted": true
+    },
+    {
+      "id": 2,
+      "text": "todo 2",
+      "iscompleted": true
+    },
+    {
+      "id": 3,
+      "text": "todo 3",
+      "iscompleted": true
+    },
+    {
+      "text": "hello",
+      "isCompleted": false,
+      "id": 4
+    },
+    {
+      "text": "hi",
+      "isCompleted": false,
+      "id": 5
+    },
+    {
+      "text": "abc",
+      "isCompleted": false,
+      "id": 6
+    },
+    {
+      "text": "a",
+      "isCompleted": false,
+      "id": 7
+    },
+    {
+      "text": "b",
+      "isCompleted": false,
+      "id": 8
+    },
+    {
+      "text": "s",
+      "isCompleted": false,
+      "id": 9
+    },
+    {
+      "text": "hkj",
+      "isCompleted": false,
+      "id": 10
+    },
+    {
+      "text": "jkgh",
+      "isCompleted": false,
+      "id": 11
+    },
+    {
+      "text": "njhv",
+      "isCompleted": false,
+      "id": 12
+    },
+    {
+      "text": "mn",
+      "isCompleted": false,
+      "id": 13
+    },
+    {
+      "text": "HELLO",
+      "isCompleted": false,
+      "id": 14
+    }
+  ]
+}
